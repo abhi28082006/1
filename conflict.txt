@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main branch line
-=======
-feature branch line
->>>>>>> conflict-demo
+conflict resolved succesfully
